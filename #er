@@ -1,0 +1,30 @@
+[33mcommit 6a1d2a05ef80050f95fc75404c251099c6048066[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 1e5add8 f5255d7
+Author: daniil <sadnesscreeps@gmail.com>
+Date:   Tue Oct 17 15:45:19 2023 +0200
+
+    Edit file song.txt
+
+[33mcommit 1e5add8759f9fbc7fea9d93a391de0fc758e49a9[m
+Author: daniil <sadnesscreeps@gmail.com>
+Date:   Tue Oct 17 15:28:17 2023 +0200
+
+    BED commit
+
+[33mcommit 7c797525cbdf1db1d327c283a76e965e7c47b122[m
+Author: daniil <sadnesscreeps@gmail.com>
+Date:   Sat Oct 14 17:22:01 2023 +0200
+
+    Add plus file fileh.txt
+
+[33mcommit f5255d70327f778a1312c1d8a21df6a8e5690c28[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: daniil <sadnesscreeps@gmail.com>
+Date:   Sat Oct 14 17:22:01 2023 +0200
+
+    Add new file song
+
+[33mcommit 90ff2143a6100c0cd604cde72411464f8cfc778d[m
+Author: NaumovDen <137884860+NaumovDen@users.noreply.github.com>
+Date:   Sat Oct 14 15:06:45 2023 +0200
+
+    Initial commit
